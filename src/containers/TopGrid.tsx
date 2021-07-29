@@ -1,6 +1,5 @@
 import React from 'react';
 import Grid from '@material-ui/core/Grid';
-import Container from '@material-ui/core/Container';
 import WelcomeMessage from './WelcomeMessage';
 import Avatar from '@material-ui/core/Avatar'
 import { makeStyles } from '@material-ui/core/styles';
